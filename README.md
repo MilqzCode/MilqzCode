@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MilqzCode
+- 👀 I’m interested in making games
+- 🌱 I’m currently learning Unity
+- 📫 Send me a dm in discord: @milqz_
